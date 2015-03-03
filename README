@@ -1,0 +1,26 @@
+myProject
+=========
+
+Example of how one might structure the computational part of a
+project, largely derived from a great article by Noble (2009).
+
+*Basic Project*
+
+README: introduce a naive user to the project
+LICENSE: explicit statement of how the project components can be used
+data: files containing raw data, use scripts for calculations
+src: analytical scripts should live here
+doc: documents, such as manuscripts and summaries related to the
+project
+
+
+Further Reading
+---------------
+Noble WS (2009) A Quick Guide to Organizing Computational Biology
+Projects. PLoS Comput Biol 5(7): e1000424. doi:10.1371/journal.pcbi.1000424
+
+C. A. Strasser and S. E. Hampton (2012) The fractured lab notebook:
+undergraduates and ecological data management training in the United
+States. Ecosphere 3:art116. http://dx.doi.org/10.1890/ES12-00139.1
+
+
