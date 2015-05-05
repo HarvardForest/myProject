@@ -9,10 +9,9 @@ project, largely derived from a great article by Noble (2009).
 README: introduce a naive user to the project
 LICENSE: explicit statement of how the project components can be used
 data: files containing raw data, use scripts for calculations
-src: analytical scripts should live here
-doc: documents, such as manuscripts and summaries related to the
-project
-
+src: functions for analyses should live here
+doc: documents, such as manuscripts and summaries related to the project
+results: scripts and their output are kept in here in appropriate sub-folders
 
 Further Reading
 ---------------
